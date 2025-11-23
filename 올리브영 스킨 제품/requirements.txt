@@ -1,0 +1,5 @@
+pip install pandas streamlit wordcloud matplotlib openpyxl
+
+pip install wordcloud
+
+pip install konlpy
