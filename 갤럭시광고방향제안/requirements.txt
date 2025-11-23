@@ -1,0 +1,16 @@
+pip install pandas wordcloud matplotlib
+pip install pandas wordcloud matplotlib nltk
+
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+
+pip install --upgrade nltk
+pip install streamlit pandas wordcloud matplotlib
+import re
+
+** 위 설치하면 
+WARNING: You are using pip version 22.0.4; however, version 23.3.1 is available.
+You should consider upgrading via the 'C:\Users\82109\AppData\Local\Programs\Python\Python39\python.exe -m pip install --upgrade pip' command.
+경고문이 떠서
+C:\Users\82109\AppData\Local\Programs\Python\Python39\python.exe -m pip install --upgrade pip 도 해줬습니다.
