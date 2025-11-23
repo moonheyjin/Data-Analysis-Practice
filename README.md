@@ -49,8 +49,6 @@
 
 ## 💻 실행 방법 (How to run)
 
-각 프로젝트 폴더로 이동하여 아래 명령어를 실행하세요.
-
 ```bash
 # 1. 필수 라이브러리 설치 (공통)
 pip install streamlit pandas nltk wordcloud matplotlib numpy selenium beautifulsoup4 openpyxl
